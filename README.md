@@ -162,17 +162,4 @@ Streamlit renders:
 ## 👨‍💻 Author
 
  TOOBA FATIMA
-## 🏁 Final Result
-
-A fully interactive F1-style AI racing simulator featuring:
-- Real-time racing engine
-- AI drivers
-- Player control system
-- Broadcast UI
-- Commentary system
-
----
  
----
-
-🔥 “Neon speed meets artificial intelligence on the digital track.”
