@@ -2,6 +2,7 @@
 # 🏁  Apex-Velocity-AI-Racing-Simulator
 ### 🎮 AI-Powered F1 Broadcast Racing Simulator (Streamlit + Multi-Agent AI + Physics Engine)
 ---
+Live Demo: https://aicarracingbdly6nrgql872zxyzm8t6y.streamlit.app/
 
 ## 🚀 Overview
 
